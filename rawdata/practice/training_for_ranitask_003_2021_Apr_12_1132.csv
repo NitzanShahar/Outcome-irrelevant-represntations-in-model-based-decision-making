@@ -1,0 +1,23 @@
+trial, progress in trial, Presented Person, Smpled-Stim, SmpledStim-Location, FalseStim, FalseStim-Location, Pressed Key, Reaction Time
+1,1,m1,c1,-4,c2,4,None,8000
+2,1,w1,c1,4,v1,-4,['left'],3657
+3,1,m2,c2,4,c1,-4,['right'],1614
+3,2,w1,c1,4,c2,-4,['right'],1711
+3,3,w1,v2,4,c2,-4,['left'],660
+4,1,m1,c1,4,v2,-4,['right'],2899
+5,1,w2,v1,-4,c1,4,['left'],1406
+5,2,w2,v1,4,c1,-4,['right'],1183
+5,3,w1,v2,-4,v1,4,['left'],1377
+5,4,m1,v1,4,v2,-4,['right'],2065
+5,5,m2,c2,4,c1,-4,['right'],1065
+5,6,w1,c1,4,v1,-4,['right'],2191
+5,7,m1,v1,4,v2,-4,['right'],2018
+5,8,m2,v2,-4,v1,4,['left'],1618
+5,9,w1,c1,4,c2,-4,['right'],2019
+5,10,m2,v2,-4,c1,4,['left'],2234
+5,11,m2,c2,-4,v1,4,['left'],1562
+5,12,w2,c2,4,v2,-4,['right'],1179
+5,13,w1,v2,4,v1,-4,['right'],1333
+5,14,w2,c2,4,c1,-4,['right'],1505
+5,15,m1,c1,-4,v2,4,['left'],2270
+5,16,m1,c1,4,v2,-4,['right'],1125
